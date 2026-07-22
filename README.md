@@ -1,40 +1,23 @@
-# 👋 Hi, I’m Enock (@eno-koke)
+### Hi, I'm Enock (@eno-koke)
 
-🎓 Medical Laboratory Science student at the University of Nairobi | 💡 AI & Data Enthusiast | 🧠 Future Medical Data Analyst
-
----
-
-### 👀 What I’m Interested In
-- AI data training and annotation for healthcare applications  
-- Medical content review and data curation  
-- Machine learning for clinical and research insights  
-- Scientific writing and data storytelling  
+Medical Laboratory Science student at the University of Nairobi, building toward AI applications in healthcare data. Based in Nairobi.
 
 ---
 
-### 🌱 What I’m Currently Learning
-- Python for AI & Data Science  
-- Data labeling, cleaning, and visualization  
-- GitHub workflows and open-source collaboration  
+**Currently building**
+- [`AI-Data-Training-Demo`](https://github.com/eno-koke/AI-Data-Training-Demo) — sample project on data labeling, annotation, and dataset prep for AI model training
+- `LabMaster Africa` — a study/exam-prep platform for medical lab science students, with AI-assisted content tools (in progress)
+- `LabQuiz Africa` — companion quiz tool for lab science exam prep (in progress)
+
+**Stack right now**
+Python · TypeScript · data labeling & cleaning · early ML workflows
+
+**Background**
+Medical Laboratory Science gives me the clinical grounding; I'm layering data science and AI on top of it, aimed at healthcare-specific data work — annotation, curation, and eventually applied ML on clinical data.
+
+**Open to**
+Collaborating on healthcare/AI datasets or medical data-training tools. Reach me at [your email or LinkedIn here].
 
 ---
 
-### 💞️ What I’m Looking to Collaborate On
-- AI healthcare datasets  
-- Medical data training projects  
-- Freelance or remote AI content tasks  
-
----
-
-### 📫 How to Reach Me
-- ✉️ Email:ochiengenock24@gmail.com 
-- 🧩 GitHub Projects: [github.com/eno-koke?tab=repositories](https://github.com/eno-koke?tab=repositories)
-
----
-
-### ⚡ Fun Fact
-I can spend hours analyzing both patient samples and data samples — one helps save lives, the other helps teach machines how to.
-
----
-
-> “Where Medicine Meets Data Intelligence.”
+*Last updated: July 2026*
